@@ -65,9 +65,4 @@ This project simulates and analyzes social media engagement data (likes) across 
 
 ---
 
-▶️ Getting Started
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/social-media-likes-analysis.git
